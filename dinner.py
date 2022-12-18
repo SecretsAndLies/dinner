@@ -23,4 +23,4 @@ elif number == 9:
 elif number == 10:
     Dinner ="Italian food"
     
-print("Tonight, you should order " + Dinner +"! Remember to save some for me!")
+print(f"Tonight, you should order {Dinner}! Remember to save some for me!")
